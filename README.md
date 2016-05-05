@@ -16,8 +16,8 @@ The list and the links to the workshops are [here](https://cs.senecac.on.ca/~oop
 | 10:45       |           |          | OOP244 SBB </br> Lecture </br> Rm. T3080   |           | OOP244 SAA </br> Lab </br> Rm. 2122   |
 | 11:40       |           |          | OOP244 SAA </br> Lab </br> Rm. 2122   |           |         |
 | 12:35       |           |          | OOP244 SAA </br> Lab </br> Rm. 2122   |           |         |
-| 13:30       |           |          | **Office Hours** </br> **Rm. **         |           |         |
-| 14:25       |           |          | **Office Hours** </br> **Rm. **        |           |         |
+| 13:30       |           |          | **Office Hours** </br> **Rm. T2091**        |           |         |
+| 14:25       |           |          | **Office Hours** </br> **Rm. T2091**        |           |         |
 | 15:20       |           |          |            |           |         |
 | 16:15       |           |          |            |           |         |
 | 17:10       |           |          |            |           |         |
