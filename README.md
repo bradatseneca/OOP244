@@ -4,7 +4,7 @@ This website will be the primary location where I will post any notes, handouts,
 
 Blackboard will be used for annoucements and grades.
 
-The primary resoucre for this cource can be found [here](https://cs.senecac.on.ca/~oop244/dynamic/workshops/index.html).
+The primary resoucre for this cource can be found [here](https://cs.senecac.on.ca/~oop244/pages/timeline.html).
 The list and the links to the workshops are [here](https://cs.senecac.on.ca/~oop244/dynamic/workshops/index.html).
 
 ##Timetable
