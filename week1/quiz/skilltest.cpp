@@ -16,6 +16,8 @@ int main() {
 
 
 	// Question #4
+	/*
+	*/
 
 	int x = 1;
 
