@@ -18,6 +18,6 @@ The list and the links to the workshops are [here](https://cs.senecac.on.ca/~oop
 | 12:35       |           | DSA555 SAA </br> Lecture </br> Rm. S2154   | OOP244 SAA </br> Lab </br> Rm. 2122   |           |         |
 | 13:30       |           |**Office Hours** </br> **Rm. T2091**        | **Office Hours** </br> **Rm. T2091**        |           |         |
 | 14:25       |           |          | **Office Hours** </br> **Rm. T2091**        |           |         |
-| 15:20       |           |          |            |           |         |
-| 16:15       |           |          |            |           |         |
+| 15:20       |           |          |            |DSA555 SAA </br> Lecture </br> Rm. S1069|         |
+| 16:15       |           |          |            |DSA555 SAA </br> Lecture </br> Rm. S1069|         |
 | 17:10       |           |          |            |           |         |
