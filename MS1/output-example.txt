@@ -1,0 +1,103 @@
+
+
+Seneca Course Management Tool
+1- List courses.
+2- Display the details of a course.
+3- Add a course.
+4- Change the study load of a course.
+0- Exit Program
+1
+
+ Row | Code |               Course Title              | Credits | Study Load | System | Lang. Req. |
+-----|------|-----------------------------------------|---------|------------|--------|------------|
+----------------------------------------------------------------------------------------------------
+
+Seneca Course Management Tool
+1- List courses.
+2- Display the details of a course.
+3- Add a course.
+4- Change the study load of a course.
+0- Exit Program
+3
+
+Course Code: OOP244
+Course Title: Object Orientated Programming in C++
+Course Credit: 1
+Study Load: 4
+
+Seneca Course Management Tool
+1- List courses.
+2- Display the details of a course.
+3- Add a course.
+4- Change the study load of a course.
+0- Exit Program
+3
+
+Course Code: INT222
+Course Title: Introduction to Web Development
+Course Credit: 1
+Study Load: 4
+
+Seneca Course Management Tool
+1- List courses.
+2- Display the details of a course.
+3- Add a course.
+4- Change the study load of a course.
+0- Exit Program
+1
+
+ Row | Code |               Course Title              | Credits | Study Load | System | Lang. Req. |
+-----|------|-----------------------------------------|---------|------------|--------|------------|
+   0 |OOP244|Object Orientated Programming in C++     |        1|           4|        |            |
+   1 |INT222|Introduction to Web Development          |        1|           4|        |            |
+----------------------------------------------------------------------------------------------------
+
+Seneca Course Management Tool
+1- List courses.
+2- Display the details of a course.
+3- Add a course.
+4- Change the study load of a course.
+0- Exit Program
+4
+
+
+Please enter the course code : OOP244
+Please enter the amount of the study load: -2
+
+
+Seneca Course Management Tool
+1- List courses.
+2- Display the details of a course.
+3- Add a course.
+4- Change the study load of a course.
+0- Exit Program
+4
+
+
+Please enter the course code : INT222
+Please enter the amount of the study load: 2
+
+
+Seneca Course Management Tool
+1- List courses.
+2- Display the details of a course.
+3- Add a course.
+4- Change the study load of a course.
+0- Exit Program
+1
+
+ Row | Code |               Course Title              | Credits | Study Load | System | Lang. Req. |
+-----|------|-----------------------------------------|---------|------------|--------|------------|
+   0 |OOP244|Object Orientated Programming in C++     |        1|           2|        |            |
+   1 |INT222|Introduction to Web Development          |        1|           6|        |            |
+----------------------------------------------------------------------------------------------------
+
+Seneca Course Management Tool
+1- List courses.
+2- Display the details of a course.
+3- Add a course.
+4- Change the study load of a course.
+0- Exit Program
+0
+
+Goodbye!!
