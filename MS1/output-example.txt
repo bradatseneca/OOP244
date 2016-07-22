@@ -6,7 +6,7 @@ Seneca Course Management Tool
 3- Add a course.
 4- Change the study load of a course.
 0- Exit Program
-1
+>1
 
  Row | Code |               Course Title              | Credits | Study Load | System | Lang. Req. |
 -----|------|-----------------------------------------|---------|------------|--------|------------|
@@ -18,7 +18,7 @@ Seneca Course Management Tool
 3- Add a course.
 4- Change the study load of a course.
 0- Exit Program
-3
+>3
 
 Course Code: OOP244
 Course Title: Object Orientated Programming in C++
@@ -31,7 +31,7 @@ Seneca Course Management Tool
 3- Add a course.
 4- Change the study load of a course.
 0- Exit Program
-3
+>3
 
 Course Code: INT222
 Course Title: Introduction to Web Development
@@ -44,7 +44,7 @@ Seneca Course Management Tool
 3- Add a course.
 4- Change the study load of a course.
 0- Exit Program
-1
+>1
 
  Row | Code |               Course Title              | Credits | Study Load | System | Lang. Req. |
 -----|------|-----------------------------------------|---------|------------|--------|------------|
@@ -58,7 +58,7 @@ Seneca Course Management Tool
 3- Add a course.
 4- Change the study load of a course.
 0- Exit Program
-4
+>4
 
 
 Please enter the course code : OOP244
@@ -71,7 +71,7 @@ Seneca Course Management Tool
 3- Add a course.
 4- Change the study load of a course.
 0- Exit Program
-4
+>4
 
 
 Please enter the course code : INT222
@@ -84,7 +84,7 @@ Seneca Course Management Tool
 3- Add a course.
 4- Change the study load of a course.
 0- Exit Program
-1
+>1
 
  Row | Code |               Course Title              | Credits | Study Load | System | Lang. Req. |
 -----|------|-----------------------------------------|---------|------------|--------|------------|
@@ -98,6 +98,6 @@ Seneca Course Management Tool
 3- Add a course.
 4- Change the study load of a course.
 0- Exit Program
-0
+>0
 
 Goodbye!!
