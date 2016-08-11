@@ -1,0 +1,18 @@
+
+
+template <typename T>
+class Sort{
+public:
+
+	void bubble(T*, int);
+	
+};
+
+
+template <typename Type>
+void Sort<Type>::bubble(Type* array, int n){
+	
+
+
+}
+
